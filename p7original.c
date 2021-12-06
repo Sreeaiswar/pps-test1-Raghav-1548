@@ -23,5 +23,4 @@ int main()
     n = input();
     result = my_sqrt(n);
     output(n,result);
-    return 0;
 }
